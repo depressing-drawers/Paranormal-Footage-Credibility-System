@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>Paranormal_Footage_Credibility_System</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+	<RuntimeIdentifier>win10-x64</RuntimeIdentifier>
+	<PublishSingleFile>true</PublishSingleFile>
+	<IncludeAllContentForSelfExtract>true</IncludeAllContentForSelfExtract>
+  </PropertyGroup>
+
+</Project>
